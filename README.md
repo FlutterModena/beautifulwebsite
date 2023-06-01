@@ -1,16 +1,19 @@
-# beautifulwebsite
+# Beautiful Website
 
-A new Flutter project.
+```
+Il segreto di una interfaccia grafica di successo? È spegnere il PC.
 
-## Getting Started
+[...] Ho pensato questa presentazione in viaggio da Piacenza al mio paese Natale, iniziando a scrivere sulla mia agenda
+alla stazione di Bologna Centrale e terminandola in riva al mare a Marina di Pisticci (MT).
 
-This project is a starting point for a Flutter application.
+Vi chiederete, a Noi cosa importa? Bene.
 
-A few resources to get you started if this is your first Flutter project:
+Vi ho mostrato come da una UI pensata ed un'ottima UX, siamo riusciti a vendere addirittura un qualcosa di brutto.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Perchè ci siamo riusciti? Perchè ho spento il PC, ed ho immaginato un'informatica semplice, simpatica e fruibile
+da tutti. Pochi concetti diretti e di bassa complessità.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Quindi, sono fortunato ad aver fatto quel lungo viaggio e fortunato di essere qui adesso!
+```
+```
+- Dott. Dennis Romano, 20 Maggio 2023, Modena
